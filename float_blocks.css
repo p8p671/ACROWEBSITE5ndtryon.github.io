@@ -1,0 +1,209 @@
+.float_A {
+    margin-top: -70vh;
+    margin-left: 10vw;
+    position: absolute;
+    background:#d0256700;
+    list-style: none;
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    box-sizing: initial;
+    transition: 0.5s;
+}
+.float_A ul{
+  
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+    box-sizing: initial;
+   
+}
+.float_A ul li {
+  
+
+    position: relative;
+    list-style: none;
+    width: 100%;
+
+}
+    .float_A ul p  {
+  
+    position: relative;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+    color:aliceblue;
+    line-height:25px;
+    font-size: 10rem;
+    font-family: PlatNomor ;
+
+}
+
+
+.float_A-2 {
+    margin-top: -50vh;
+    margin-left: 10vw;
+    position: absolute;
+    background:#d0256700;
+    list-style: none;
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    box-sizing: initial;
+    transition: 0.5s;
+}
+.float_A-2 ul{
+  
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+    box-sizing: initial;
+   
+}
+.float_A-2 ul li {
+  
+
+    position: relative;
+    list-style: none;
+    width: 100%;
+
+}
+    .float_A-2 ul p  {
+  
+    position: relative;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+    color:aliceblue;
+    line-height:55px;
+    font-size: 3rem;
+    font-family: PlatNomor ;
+}
+.float_B {
+    margin-top: 25vh;
+    margin-left: 0vw;
+    position: absolute;
+    background:#d0256700;
+    list-style: none;
+    height: 25vh;
+    width: 100VW;
+    border-radius: 15px;
+    box-sizing: initial;
+    transition: 0.5s;
+}
+.float_B-2 {
+    margin-top: 125vh;
+    margin-left: 0vw;
+    position: absolute;
+    background:#d0256700;
+    list-style: none;
+    height: 25vh;
+    width: 100VW;
+    border-radius: 15px;
+    box-sizing: initial;
+    transition: 0.5s;
+}
+.float_B-3 {
+    margin-top: 225vh;
+    margin-left: 0vw;
+    position: absolute;
+    background:#d0256700;
+    list-style: none;
+    height: 25vh;
+    width: 100VW;
+    border-radius: 15px;
+    box-sizing: initial;
+    transition: 0.5s;
+}
+.float_C {
+    margin-top: 0vh;
+    margin-left: 55vw;
+    position: absolute;
+    background:#d0256700;
+    list-style: none;
+    height: 50vh;
+    width: 40VW;
+    border-radius: 15px;
+    box-sizing: initial;
+    transition: 0.5s;
+}
+.float_C ul{
+  
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 40VW;
+    box-sizing: initial;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.float_C ul li {
+  
+
+    position: relative;
+    list-style: none;
+    width: 40VW;
+
+}
+    .float_C ul p  {
+  
+        position: relative;
+        display: block;
+        font-family: PlatNomor ;
+        width: 40VW;
+        display: flex;
+        text-decoration: none;
+        color:aliceblue;
+        line-height:25px;
+        font-size: 1rem;
+}
+
+.float_D {
+    margin-top: 0vh;
+    margin-left: 5vw;
+    position: absolute;
+    background:#d0256700;
+    list-style: none;
+    height: 50vh;
+    width: 40VW;
+    border-radius: 15px;
+    box-sizing: initial;
+    transition: 0.5s;
+}
+.float_D ul{
+  
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 40VW;
+    box-sizing: initial;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.float_D ul li {
+  
+
+    position: relative;
+    list-style: none;
+    width: 40VW;
+
+}
+    .float_D ul p  {
+  
+        position: relative;
+        display: block;
+        font-family: PlatNomor ;
+        width: 40VW;
+        display: flex;
+        text-decoration: none;
+        color:aliceblue;
+        line-height:25px;
+        font-size: 1rem;
+}
+

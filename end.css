@@ -1,0 +1,171 @@
+.float_L3
+{
+    margin-top:570vh;
+    margin-left: 0%;
+    position: relative;
+    background:rgb(50, 50, 50);
+    list-style: none;
+    height: 50vh;
+    width: 100%;
+    border-radius: 0px;
+    box-sizing: initial;
+    transition: 0.5s;
+
+
+}
+.float_L3 h1
+{
+
+
+    position: absolute;
+    display: block;
+    font-family: NASA21, Helvetica, sans-serif ;
+    width: 25%;
+    display: flex;
+    text-decoration: none;
+    color:aliceblue;
+    line-height:25px;
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-top: 450px;
+    margin-left: 65%;
+
+
+    display:flex;
+
+
+}
+.float_L3 h2
+{
+
+
+    position: absolute;
+    display: block;
+    font-family: NASA21, Helvetica, sans-serif ;
+    width: 55%;
+    display: flex;
+    text-decoration: none;
+    color:aliceblue;
+    line-height:25px;
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-left: 15%;
+
+
+    display:flex;
+
+
+}
+.float_L3 h3
+{
+
+
+    position: absolute;
+    display: block;
+    font-family: NASA21, Helvetica, sans-serif ;
+    width: 55%;
+    display: flex;
+    text-decoration: none;
+    color:aliceblue;
+    line-height:25px;
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-left: 25%;
+
+
+    display:flex;
+
+
+}
+.float_L3 h4
+{
+
+
+    position: absolute;
+    display: block;
+    font-family: NASA21, Helvetica, sans-serif ;
+    width: 55%;
+    display: flex;
+    text-decoration: none;
+    color:aliceblue;
+    line-height:25px;
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-left: 35%;
+
+
+    display:flex;
+
+
+}
+
+.float_L3 title
+{
+    position: relative;
+    display: block;
+    font-family: potra, Helvetica, sans-serif ;
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+    color:aliceblue;
+    line-height:25px;
+    font-size: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+.float_L3 ul{
+  
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 30%;
+    box-sizing: border-box;
+    padding-top: 40px;
+    padding-left: 20px;
+
+}
+.float_L3 ul li a {
+  
+
+    position: relative;
+    list-style: none;
+    font-family: nasa21, Helvetica, sans-serif ;
+    width: 30%;
+    color:aliceblue;
+    line-height:25px;
+    font-size: 1rem;
+
+}
+.float_L3 ul li a:hover {
+  
+
+    position: relative;
+    list-style: none;
+    font-family: nasa21, Helvetica, sans-serif ;
+    width: 30%;
+    color:aliceblue;
+    line-height:25px;
+    font-size: 1.05rem;
+    transition: 1s;
+
+}
+
+    .float_L3 ul p  {
+  
+    position: relative;
+    display: block;
+    font-family: nasa21, Helvetica, sans-serif ;
+    width: 90%;
+    display: flex;
+    text-decoration: none;
+    color:aliceblue;
+    line-height:25px;
+    font-size: 1rem;
+
+}

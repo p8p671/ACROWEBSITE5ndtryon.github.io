@@ -1,0 +1,105 @@
+.imga{
+    margin-top: 35px;
+    margin-left: 250px;
+    border-radius: 15px;
+    width: 850px;
+    height: 550px;
+    object-fit: cover;
+}
+.imgb{
+    margin-top: 35px;
+    margin-left: 750px;
+    border-radius: 15px;
+    width: 850px;
+    height: 550px;
+    object-fit: cover;
+}
+.imgc{ 
+    margin-top: 0px;
+    
+    
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+.imgd{ 
+    padding-left: 0px;
+    margin-top: 0vh;
+    position: absolute;
+    width: 50vw;
+    height: 50vh;
+    object-fit: cover;
+}
+.imge{ 
+    padding-left: 90vh;
+    margin-top: 0vh;
+    position: absolute;
+    width: 100vw;
+    height: 50vh;
+    object-fit: cover;
+}
+.imgn1a{
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    position: relative;
+}
+.imgb1b{
+    margin-top: 350px;
+    display: block;
+margin-left: 5px;
+margin-right: 5px;
+    width: 25px;
+    height: 25px;
+    border-radius: 0px;
+    position: relative;
+    filter: invert(100%);
+    transition: 0.5s
+}
+.imgb1b:hover{
+    margin-top: 345px;
+    display: block;
+margin-left: 5px;
+margin-right: 5px;
+    width: 25px;
+    height: 25px;
+    border-radius: 0px;
+    position: relative;
+    filter: invert(100%);
+    transition: 0.5s
+    
+ 
+    
+}
+.imgb1c{
+    margin-top: 350px;
+    display: block;
+    margin-left: 5px;
+margin-right: 5px;
+    width: 25px;
+    height: 25px;
+    border-radius: 0px;
+    position: relative;
+    filter: invert(100%);
+    transition: 0.5s
+}
+.imgb1c:hover{
+    margin-top: 345px;
+    display: block;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 25px;
+    height: 25px;
+    border-radius: 0px;
+    position: relative;
+    filter: invert(100%);
+    transition: 0.5s
+    
+    
+}
