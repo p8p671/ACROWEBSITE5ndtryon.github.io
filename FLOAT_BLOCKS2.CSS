@@ -1,0 +1,43 @@
+.float_E {
+    margin-top: -20vh;
+    margin-left: 10vw;
+    position: absolute;
+    background:#d02567e3;
+    list-style: none;
+    height: 150PX;
+    width: 300px;
+    border-radius: 15px;
+    box-sizing: initial;
+    transition: 0.5s;
+}
+.float_E ul{
+  
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+    box-sizing: initial;
+   
+}
+.float_E ul li {
+  
+
+    position: relative;
+    list-style: none;
+    width: 100%;
+
+}
+    .float_E ul p  {
+  
+    position: relative;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+    color:aliceblue;
+    line-height:3rem;
+    font-size: 3rem;
+    font-family: PlatNomor ;
+
+}
