@@ -18,7 +18,7 @@
     margin-top: 0px;
     
     
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     object-fit: cover;
 }
@@ -31,10 +31,10 @@
     object-fit: cover;
 }
 .imge{ 
-    padding-left: 90vh;
+    margin-left: 45VW;
     margin-top: 0vh;
     position: absolute;
-    width: 100vw;
+    width: 50VW;
     height: 50vh;
     object-fit: cover;
 }
